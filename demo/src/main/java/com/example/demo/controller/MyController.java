@@ -36,7 +36,7 @@ public class MyController {
 	public String inserts(String id) {
 		
 //		System.out.println(student.getId());
-//		
+//		sss
 //		System.out.println(student.getName());
 		
 	
